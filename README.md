@@ -20,7 +20,8 @@ If you want to know what is behind your data, feel free to contact me 📩
 
 ## Contact
 
-Feel free to reach me trought [LinkedIn](https://www.linkedin.com/in/pedrosergey/) or 
+Feel free to reach me trought [LinkedIn](https://www.linkedin.com/in/pedrosergey/) or send me an [e-mail](mailto:grone.93@gmail.com)
+.
 
 Also you can send me an 
 
