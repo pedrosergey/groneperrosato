@@ -1,4 +1,29 @@
-### Hi there 👋
+## Hello there 👋🏽
+
+My name is Pedro Sergey and I am a data lover👨
+
+Currently improving my datascience knowledge🌱
+
+If you want to know what is behind your data, feel free to contact me 📩
+
+## Skills 
+
+⚙️ Python and R
+
+🤖 Machine learning, maths and statistics
+
+💽 SQL and MongoDB
+
+📊 PowerBI
+
+☁️ Azure, GCP and AWS
+
+## Contact
+
+Feel free to reach me trought [LinkedIn](https://www.linkedin.com/in/pedrosergey/) or 
+
+Also you can send me an 
+
 
 <!--
 **groneperrosato/groneperrosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
