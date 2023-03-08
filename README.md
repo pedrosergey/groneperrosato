@@ -1,10 +1,10 @@
 ## Hello there 👋🏽
 
-My name is Pedro Sergey and I am a data lover👨
+My name is Pedro Sergey and I am a data lover👨🏽‍💻
 
-Currently improving my datascience knowledge🌱
+I am currently pursuing a master's degree in data science🌱
 
-If you want to know what is behind your data, feel free to contact me 📩
+If you want to know what is behind your data, I am the right person🕵🏼
 
 ## Skills 
 
@@ -20,22 +20,5 @@ If you want to know what is behind your data, feel free to contact me 📩
 
 ## Contact
 
-Feel free to reach me trought [LinkedIn](https://www.linkedin.com/in/pedrosergey/) or send me an [e-mail](mailto:grone.93@gmail.com).
+I would love to hear from you! You can find me on [LinkedIn](https://www.linkedin.com/in/pedrosergey/) or reach me directly by sending an [e-mail](mailto:grone.93@gmail.com). Let's talk about how we can work together 📩👯
 
- 
-
-
-<!--
-**groneperrosato/groneperrosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
